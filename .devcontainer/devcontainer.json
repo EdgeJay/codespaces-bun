@@ -1,0 +1,17 @@
+{
+    "name": "Codespaces template repository for bun.sh",
+    "extensions": [
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github",
+        "ms-azuretools.vscode-docker",
+        "ms-vsliveshare.vsliveshare",
+        "vscode-icons-team.vscode-icons"
+    ],
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "files.exclude": {
+            "**/CODE_OF_CONDUCT.md": true,
+            "**/LICENSE": true
+        }
+    }
+}
